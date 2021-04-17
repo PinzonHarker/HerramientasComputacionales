@@ -1,0 +1,2 @@
+updown.x : updown.cpp
+      g++ updown.cpp -o updown.x
